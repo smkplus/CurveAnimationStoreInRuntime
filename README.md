@@ -8,7 +8,8 @@ first you should install the
 
 ## How to use?
 
-![image](https://user-images.githubusercontent.com/16706911/97955445-6bd2d080-1dbb-11eb-9d6d-efb9146c3e48.png)
+![Record_2020_11_03_10_09_16_774](https://user-images.githubusercontent.com/16706911/97955979-c0c31680-1dbc-11eb-8013-2d80a9f82aa5.gif)
+
 
 ## How it works?
 
