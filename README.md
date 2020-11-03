@@ -1,6 +1,6 @@
 # CurveAnimationStoreInRuntime
 ![Unity 2019.4+](https://img.shields.io/badge/unity-unity%202019.4%2B-blue)
-[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/dbrizov/NaughtyAttributes/blob/master/LICENSE)
+![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)]
 
 ## Installation
 first you should install the
