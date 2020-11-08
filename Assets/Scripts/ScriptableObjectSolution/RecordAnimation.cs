@@ -1,4 +1,5 @@
-﻿using NaughtyAttributes;
+﻿using System;
+using NaughtyAttributes;
 using UnityEngine;
 
 public class RecordAnimation : MonoBehaviour
@@ -6,6 +7,16 @@ public class RecordAnimation : MonoBehaviour
     [SerializeField] private Transform target;
     [SerializeField] private bool isRecording;
     [SerializeField, ReorderableList] private AnimationCurveSavable[] animationCurveSavable;
+
+    private void Awake()
+    {
+        if (isRecording)
+        {
+            animationCurveSavable[0].ClearAll();
+            animationCurveSavable[1].ClearAll();
+            animationCurveSavable[2].ClearAll();
+        }
+    }
 
     private void Update()
     {
